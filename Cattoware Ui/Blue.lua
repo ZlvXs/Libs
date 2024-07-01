@@ -1,4 +1,3 @@
--- Chaozz Lib
 local library = { 
 	flags = { }, 
 	items = { } 

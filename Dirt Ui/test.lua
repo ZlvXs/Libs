@@ -107,7 +107,7 @@ function Lib:CreateWindow(Name)
     
     Title.Name = "Title"
     Title.Parent = Main
-    Title.BackgroundColor3 = Color3.fromRGB(10, 10, 10)
+    Title.BackgroundColor3 = Color3.fromRGB(0, 0, 255)
     Title.BackgroundTransparency = 1.000
     Title.BorderSizePixel = 0
     Title.Size = UDim2.new(1, 0, 0, 25)

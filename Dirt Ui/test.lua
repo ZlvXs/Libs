@@ -68,7 +68,7 @@ function Lib:CreateWindow(Name)
     Main.SliceScale = 0.040
     Main.Name = "Main"
     Main.Parent = ScreenGui
-    Main.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    Main.BackgroundColor3 = Color3.fromRGB(255,0,0)
     Main.BorderSizePixel = 0
     Main.Position = UDim2.new(0, #ScreenGui:GetChildren() * 170 - 155, 0, 15)
     Main.Size = UDim2.new(0, 150, 0, 25)   

@@ -62,7 +62,7 @@ function Lib:CreateWindow(Name)
     Main.Position = UDim2.new(0, 15, 0, 15)
     Main.Size = UDim2.new(0, 150, 0, 206)
     Main.Image = "rbxassetid://3570695787"
-    Main.ImageColor3 = Color3.fromRGB(1, 1, 1)
+    Main.ImageColor3 = Color3.fromRGB(255, 0, 0)
     Main.ScaleType = Enum.ScaleType.Slice
     Main.SliceCenter = Rect.new(100, 100, 100, 100)
     Main.SliceScale = 0.040
